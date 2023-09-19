@@ -1,6 +1,13 @@
-# CHALLENGE BRQ - FIAP
+# CHALLENG BRQ - FIAP
 
-O desafio, proposto pela FIAP, consiste em desenvolver um novo 
-sistema de locação de automóveis. A princípio, nossa squad buscou 
-criar uma alternativa de locação fora da curva que temos atualmente 
-no mercado.
+The challenge, proposed by FIAP, consists of developing a new car rental system. Initially, our squad sought to create a rental alternative outside the curve that we currently have on the market.
+
+## Roadmap
+
+- [x]  Functional and non-functional requirements
+- [x]  UI/UX prototype
+- [x]  Project backlog
+- [x]  Entity-Relationship Model
+- [ ]  FrontEnd
+- [ ]  Class Diagram
+- [ ]  Pitch with 3 insights
