@@ -1,4 +1,4 @@
-<img style="width: 100px" src="https://github.com/jolucas245/Challenge-BRQ/assets/65248543/934c49c0-ee33-495b-8dbf-54647e002b72">
+<img style="width: 50px" src="https://github.com/jolucas245/Challenge-BRQ/assets/65248543/934c49c0-ee33-495b-8dbf-54647e002b72">
 
 # CHALLENG BRQ - FIAP 
 
