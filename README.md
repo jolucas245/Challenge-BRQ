@@ -5,6 +5,7 @@ The challenge, proposed by FIAP, consists of developing a new car rental system.
 ## Roadmap
 
 - [x]  Functional and non-functional requirements
+- [x]  Use-Case Doc
 - [x]  UI/UX prototype
 - [x]  Project backlog
 - [x]  Entity-Relationship Model
