@@ -2,7 +2,7 @@
 
 The challenge, proposed by FIAP, consists of developing a new car rental system. Initially, our squad sought to create a rental alternative outside the curve that we currently have on the market.
 
-##Roadmap
+## Roadmap
 
 - [x]  Functional and non-functional requirements
 - [x]  UI/UX prototype
@@ -14,5 +14,5 @@ The challenge, proposed by FIAP, consists of developing a new car rental system.
 
 ## Licença
 
-[wtfpl](https://choosealicense.com/licenses/wtfpl/)
+[<img src="https://img.shields.io/badge/LICENSE-WTFPL-green?style=for-the-badge"/>](https://choosealicense.com/licenses/wtfpl/)
 
