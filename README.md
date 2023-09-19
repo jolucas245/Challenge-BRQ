@@ -1,4 +1,4 @@
-# CHALLENG BRQ - FIAP
+# CHALLENGE BRQ - FIAP
 
 O desafio, proposto pela FIAP, consiste em desenvolver um novo 
 sistema de locação de automóveis. A princípio, nossa squad buscou 
