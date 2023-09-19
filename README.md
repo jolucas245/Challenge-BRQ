@@ -1,10 +1,6 @@
   <tr>
-    <td>
       ![download](https://github.com/jolucas245/Challenge-BRQ/assets/65248543/9044f041-87ec-4bd2-a9c7-c49d7337dcd9)
-    </td>
-    <td>
       ![unnamed (1)](https://github.com/jolucas245/Challenge-BRQ/assets/65248543/934c49c0-ee33-495b-8dbf-54647e002b72)
-    </td>
   </tr>
 
 
