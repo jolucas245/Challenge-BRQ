@@ -1,5 +1,5 @@
 
-<img style="width: 200px" src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-twotoone-aR8ckGFtV5kG1pW.png">
+<img style="width: 300px" src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-twotoone-aR8ckGFtV5kG1pW.png">
 
 The challenge, proposed by FIAP, consists of developing a new car rental system. Initially, our squad sought to create a rental alternative outside the curve that we currently have on the market.
 
