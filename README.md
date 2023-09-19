@@ -1,6 +1,7 @@
 <div width="200px" height="200px">
   ![unnamed (1)](https://github.com/jolucas245/Challenge-BRQ/assets/65248543/934c49c0-ee33-495b-8dbf-54647e002b72)
 </div>
+<img src="https://github.com/jolucas245/Challenge-BRQ/assets/65248543/934c49c0-ee33-495b-8dbf-54647e002b72">
 
 # CHALLENG BRQ - FIAP 
 
