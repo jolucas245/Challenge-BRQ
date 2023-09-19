@@ -1,4 +1,5 @@
-# CHALLENG BRQ - FIAP
+# CHALLENG BRQ - FIAP ![download](https://github.com/jolucas245/Challenge-BRQ/assets/65248543/9044f041-87ec-4bd2-a9c7-c49d7337dcd9)
+
 
 The challenge, proposed by FIAP, consists of developing a new car rental system. Initially, our squad sought to create a rental alternative outside the curve that we currently have on the market.
 
