@@ -12,7 +12,7 @@ The challenge, proposed by FIAP, consists of developing a new car rental system.
 - [ ]  Class Diagram
 - [ ]  Pitch with 3 insights
 
-## Licença
+## License
 
 [<img src="https://img.shields.io/badge/LICENSE-WTFPL-green?style=for-the-badge"/>](https://choosealicense.com/licenses/wtfpl/)
 
