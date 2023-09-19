@@ -10,6 +10,6 @@ The challenge, proposed by FIAP, consists of developing a new car rental system.
 - [x]  UI/UX prototype
 - [x]  Project backlog
 - [x]  Entity-Relationship Model
-- [ ]  FrontEnd
+- [ ]  Front-end
 - [ ]  Class Diagram
 - [ ]  Pitch with 3 insights
