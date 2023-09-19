@@ -21,3 +21,10 @@ The challenge, proposed by FIAP, consists of developing a new car rental system.
 
 [<img src="https://img.shields.io/badge/LICENSE-WTFPL-green?style=for-the-badge"/>](https://choosealicense.com/licenses/wtfpl/)
 
+## Autores
+
+- [@jolucas245](https://github.com/jolucas245/)
+- [@giomadeira](https://github.com/giomadeira/)
+- [@Carreirahenri](https://github.com/Carreirahenri/)
+
+
