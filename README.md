@@ -27,4 +27,5 @@ The challenge, proposed by FIAP, consists of developing a new car rental system.
 - [@giomadeira](https://github.com/giomadeira/)
 - [@Carreirahenri](https://github.com/Carreirahenri/)
 - [@anapastori](https://github.com/anapastori)
+- [@devgustavojf](https://github.com/devgustavojf)
 
