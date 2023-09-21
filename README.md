@@ -1,6 +1,6 @@
 
 <img style="width: 300px" src="https://github.com/jolucas245/Challenge-BRQ/assets/65248543/4f783d69-360b-4a4a-a5bb-cde1ac978954">
-
+<br><br>
 
 The challenge, proposed by FIAP, consists of developing a new car rental system. Initially, our squad sought to create a rental alternative outside the curve that we currently have on the market.
 
