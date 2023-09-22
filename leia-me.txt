@@ -1,9 +1,0 @@
-É sugerido que o professor abra o projeto no Live Server para que todas as funcionalidades desenvolvidas sejam experênciadas.
-Caso abra apenas o arquivo index.html ou home_page.html no navegador, haverá um bloqueio de XMLHttpRequest que é padrão em todos os navegadores,
-então componentes como Lottie e Rive utilizados, não serão carregados, apesar de não prejudicar a experiência do usuário.
-Isso ocorre quando estamos a utilizar um CDN HTTP para carregar um arquivo local. Como o Live Server cria um servidor em nossa máquina,
-esse erro é corrigido automaticamente. 
-
-Abraços,
-João Lucas Gonçalves
-RM551504
