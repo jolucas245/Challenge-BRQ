@@ -9,6 +9,7 @@
 }
 body{
     background-color: #E3F2FD;
+    margin-bottom: 2rem;
 }
 .reverso-nome {
     display: flex;
