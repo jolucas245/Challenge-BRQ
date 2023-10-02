@@ -7,6 +7,10 @@ html {
   font-family: fonteRuda;
 }
 
+body {
+  overflow: hidden;
+}
+
 .title-back{
   font-size: 28px;
 }
@@ -30,7 +34,9 @@ html {
 .second-column {
   margin: 0px !important;
   padding: 0px !important;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
+  height: 100vh;
   background-color: #E3F2FD;
 }
 
@@ -48,20 +54,9 @@ html {
 }
 
 .image-container {
-    background-color: #D9D9D9;
-    width: 300px;
-    height: 150px;
-    margin: 0 auto;
-    margin-bottom: 50px;
-    border-radius: 20px;
-}
-
-.figure-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    height: 100px;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
 }
 
 .book-btn {
@@ -75,13 +70,60 @@ html {
   font-weight: bold;
 }
 
-.divider{
-  border: 1px solid black;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 50px;
+
+.reverso-nome {
+  display: flex;
+
+}
+.reverso-nome a > img{
+  width: 10px;
+  height: 15px;
+  margin-left: 10px;
+
+}
+.reverso-nome h2{
+  display: flex;
+  padding-left: 20px;
+}
+.card {
+  margin: 20px auto;
+  background-color: #D9D9D9;
 }
 
+.card > .img-car{
+  background-color: #FFFFFF;
+  border-radius: 5%;
+  text-align: center;
+
+} 
+
+button > .accordion-button {
+  background-color: #aca6a6;
+}
+.accordion-body{
+  background-color: #D9D9D9;   
+}
+
+.protec {
+  display: flex;
+  justify-content: space-between;
+  background-color: #D9D9D9;
+
+}
+.protec-select {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.valor-hora {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
+.form-select {
+  width: 20vw;
+  height: 5vh;
+}
 
 a, a:hover{
   text-decoration: none;

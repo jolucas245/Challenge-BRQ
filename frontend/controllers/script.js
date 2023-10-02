@@ -1,6 +1,6 @@
 function splash() {
   setTimeout(function(){
-    window.location.href = "home_page.html";
+    window.location.href = "home_view.html";
   }, 5000);
 }
 
